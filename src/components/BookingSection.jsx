@@ -14,7 +14,12 @@ function BookingSection() {
 
   const [alertVisible, setAlertVisible] = useState(false);
 
+ useEffect(() => {
   const dialog = document.getElementById("myDialog");
+   
+ }, [])
+ 
+ 
   function handleCarName(e) {
     setCarName(e.target.value);
   }
