@@ -14,10 +14,8 @@ function BookingSection() {
 
   const [alertVisible, setAlertVisible] = useState(false);
 
- useEffect(() => {
-  const dialog = document.getElementById("myDialog");
-   
- }, [])
+  
+
  
  
   function handleCarName(e) {
@@ -44,11 +42,12 @@ function BookingSection() {
       !dropTime ||
       !pickTime
     ) {
-      console.log("as");
 
       setAlertVisible(true);
     } else {
       setDialogOpen(true);
+      const dialog = document.getElementById("myDialog");
+
       dialog.showModal();
     }
   }
