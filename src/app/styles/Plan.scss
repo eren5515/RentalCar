@@ -1,0 +1,82 @@
+
+.plan-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+padding: 7rem 0;
+}
+
+.plan-flex-div {
+    display: flex;
+    flex-direction: row;
+    gap: 6rem;
+    justify-content: center;
+
+}
+
+.plan-div-h3 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.plan-div-h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 5.8rem;
+}
+
+.plan-flex-item-h2 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.plan-flex-item-p {
+    text-align: center;
+    color: rgb(82, 81, 81);
+
+}
+
+.plan-flex-item {
+    max-width: 16%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.plan-flex-item img {
+    width: 4rem;
+    margin-bottom: 2rem;
+    
+    
+    
+}
+
+@media all and (max-width: 768px) {
+    .plan-container {
+        text-align: center;
+        width: 85%;
+    }
+
+
+.plan-flex-div {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 3.3rem;
+}
+
+.plan-flex-item {
+    max-width: 80%;
+}
+
+.plan-div-h1 {
+font-size: 2.4rem;
+margin-bottom: 2rem;
+}
+
+}

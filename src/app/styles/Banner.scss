@@ -1,0 +1,88 @@
+.banner-div {
+    background-color: #2d2d2d;
+    color: white;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5rem;
+    align-items: center;
+    position: relative;
+    z-index: 0;
+
+  
+}
+.background-div {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 49%;
+    height: 100%;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-image: url(https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/06/cta_car_action.png);
+}
+.banner-left{
+    z-index: 1;
+}
+.banner-left h1 {
+    font-weight: 700;
+    font-size:3rem;
+    width: 70%;
+    z-index: 1;
+
+}
+.banner-left h2 {
+    font-size: 1.5rem;
+    z-index: 1;
+}
+
+.banner-right {
+    background-color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius:4px;
+    font-weight: 700;
+   height: min-content;
+    box-shadow: 0px 10px 12px 0px rgba(0,0,0,0.1);
+    z-index: 1;
+}
+.banner-right:hover {
+    color: var(--primary-color);
+    background-color: white;
+    transition: color 0.5s;
+    transition: background-color 0.5s;
+}
+
+
+@media all and (max-width: 768px) {
+    .banner-div {
+        text-align: center;
+        padding: 3rem 0.2rem;
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .banner-left{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        h1{
+            line-height: 1.2;
+            font-size: 2.1rem;
+            width: 90%;
+        }
+    }
+  
+
+   .background-div {
+    width: 100%;
+    
+   }
+
+
+}

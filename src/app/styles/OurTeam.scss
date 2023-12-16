@@ -1,0 +1,46 @@
+.our-team-container {
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+    padding: 6rem 24rem;
+    row-gap: 2.4rem;
+    column-gap: 2rem;
+}
+.team-member {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 20px 10px 0px rgba(0, 0, 0, 0.08);   
+    padding-bottom: 2rem; 
+    img {
+        background-color: rgb(241, 241, 241);
+        margin-bottom: 2rem;
+        width: 100%;
+        height: 27rem;
+    }
+
+    h1 {
+        font-weight: 800;
+        font-size: 1.5rem;
+    }
+     p {
+        color: gray;
+     }
+    
+}
+
+@media all and (max-width: 768px) {
+  
+  
+   .our-team-container {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    padding-top: 5rem;
+   }
+     
+     }

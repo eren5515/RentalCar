@@ -1,0 +1,60 @@
+
+
+.download-wrapper {
+    width: 100vw;
+    h1{
+        font-weight: 700;
+        font-size: 3rem;
+        line-height: 1;
+        margin-bottom: 2.2rem;
+    }
+    background-image: url("https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/08/download-background-image.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    p {
+        color: gray;
+        margin-bottom: 2.2rem;
+
+    }
+    img {
+        cursor: pointer;
+    }
+
+}
+
+.download-container {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    padding: 8rem 20rem;
+}
+
+.download-images {
+    display: flex;
+    gap: 2rem;
+}
+
+
+@media all and (max-width: 768px) {
+  
+.download-wrapper{
+    width: auto;
+    background-image: none;
+    text-align: center;
+}
+.download-container {
+    width: 100%;
+    padding: 7rem 2rem;
+    align-items: center;
+}
+
+.download-images {
+    
+    flex-direction: column;
+    width: 60%;
+}
+          
+        }
+   

@@ -1,0 +1,48 @@
+.current-page-div {
+  position: relative;
+  width: 100%;
+
+  min-height: 25rem;
+  
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 900;
+  }
+  h2 {
+    font-weight: 500;
+  }
+}
+
+.current-page-bg {
+  background-image: url(https://demo.xpeedstudio.com/carrental/home-v4/wp-content/themes/carrental/assets/images/banner/bredcumbs-1.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -3;
+  opacity: 7%;
+  
+}
+
+.current-page-text-div {
+margin-left: 25rem;
+}
+
+
+@media all and (max-width: 768px) {
+ 
+
+  .current-page-text-div {
+    margin-left: 1rem;
+  }
+
+
+}
