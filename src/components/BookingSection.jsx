@@ -56,6 +56,8 @@ function BookingSection() {
     setAlertVisible(false);
   }
   function handleClose() {
+    const dialog = document.getElementById("myDialog");
+
     dialog.close();
     setDialogOpen(false);
   }
