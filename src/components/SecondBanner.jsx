@@ -11,7 +11,7 @@ function SecondBanner() {
       <div className="second-banner-right">
         <div className="flex flex-row justify-center">
           <img
-            src="https://cdn.discordapp.com/attachments/336171716126572548/1185014356400930867/resim_2023-12-15_032331935-fotor-bg-remover-2023121532341.png?ex=658e119f&is=657b9c9f&hm=b0fa611b703e71e77adcb1a244d16f56602d66140ac381c5453dacbd77978b1b&"
+            src="https://github.com/eren5515/asd/blob/main/resim_2023-12-15_032331935-fotor-bg-remover-2023121532341.png?raw=true"
             alt=""
           />
           <h3>Call to book</h3>

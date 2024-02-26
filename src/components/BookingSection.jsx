@@ -68,7 +68,7 @@ function BookingSection() {
       <div className={alertVisible ? "booking-error-alert" : "alert-disabled"}>
         <h3>Please fill all the fields!</h3>
         <img
-          src="https://cdn.discordapp.com/attachments/336171716126572548/1184283431316750386/image-removebg-preview_11.png?ex=658b68e4&is=6578f3e4&hm=430d44f19c30d531f581a377a8e5a3750b50c8d7f205a45f228227229d8c901f&"
+          src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_11.png?raw=true"
           onClick={handleAlert}
           className="alert-close-button close-button"
         ></img>
@@ -151,13 +151,13 @@ function BookingSection() {
             <img
               onClick={handleClose}
               className="close-button"
-              src="https://cdn.discordapp.com/attachments/336171716126572548/1184283431316750386/image-removebg-preview_11.png?ex=658b68e4&is=6578f3e4&hm=430d44f19c30d531f581a377a8e5a3750b50c8d7f205a45f228227229d8c901f&"
+              src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_11.png?raw=true"
             ></img>
           </div>
           <div className="dialog-second-top-div">
             <div className="dialog-h2-and-icon">
               {" "}
-              <img src="https://cdn.discordapp.com/attachments/336171716126572548/1184268221369552907/image-removebg-preview_10.png?ex=658b5aba&is=6578e5ba&hm=81b22eb3509efdc6b7422eaa3741e3b803c76d624190927105cf0782c586fa87&"></img>
+              <img src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_10.png?raw=true"></img>
               <h2>
                 Upon completing this reservation enquiry, you will receive:
               </h2>
@@ -173,7 +173,7 @@ function BookingSection() {
 
               <div className="information-left-item">
                 <div className="information-left-icon-and-text">
-                  <img src="https://cdn.discordapp.com/attachments/336171716126572548/1184287910636298360/image-removebg-preview_13.png?ex=658b6d10&is=6578f810&hm=9f3e277c2fd4319f6492e6bd5da2c07cebae02989dc1910f715f4395a56da080&"></img>
+                  <img src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_13.png?raw=true"></img>
                   <h2>Pick-Up Time</h2>
                 </div>
                 <p>{pickTime}</p>
@@ -181,7 +181,7 @@ function BookingSection() {
 
               <div className="information-left-item">
               <div className="information-left-icon-and-text">
-                  <img src="https://cdn.discordapp.com/attachments/336171716126572548/1184287910636298360/image-removebg-preview_13.png?ex=658b6d10&is=6578f810&hm=9f3e277c2fd4319f6492e6bd5da2c07cebae02989dc1910f715f4395a56da080&"></img>
+                  <img src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_13.png?raw=true"></img>
                   <h2>Drop-off Time</h2>
                 </div>
                 <p>{dropTime}</p>
@@ -189,7 +189,7 @@ function BookingSection() {
 
               <div className="information-left-item">
               <div className="information-left-icon-and-text">
-                  <img src="https://cdn.discordapp.com/attachments/336171716126572548/1184287741773623437/image-removebg-preview_12.png?ex=658b6ce8&is=6578f7e8&hm=360ae7a544a3247f9610d93667d47baeb745b265c7c6eaae02ec65ecd645829f&"></img>
+                  <img src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_12.png?raw=true"></img>
                   <h2>Pick-Up Location</h2>
                 </div>
                 <p>{pickLocation}</p>
@@ -197,7 +197,7 @@ function BookingSection() {
 
               <div className="information-left-item">
               <div className="information-left-icon-and-text">
-                  <img src="https://cdn.discordapp.com/attachments/336171716126572548/1184287741773623437/image-removebg-preview_12.png?ex=658b6ce8&is=6578f7e8&hm=360ae7a544a3247f9610d93667d47baeb745b265c7c6eaae02ec65ecd645829f&"></img>
+                  <img src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_12.png?raw=true"></img>
                   <h2>Drop-off Location</h2>
                 </div>
                 <p>{dropLocation}</p>

@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <nav className="nav-container">
       <Link href={"/"} className="brand-div">
-        <img src="https://cdn.discordapp.com/attachments/336171716126572548/1184999132033724546/output-onlinepngtools_1.png?ex=658e0371&is=657b8e71&hm=b1a7396cce3d0a00624c71b5c3f3f260dd0c44a942c9790c5a577507109a2a54&"></img>
+        <img src="https://github.com/eren5515/asd/blob/main/output-onlinepngtools_1.png?raw=true"></img>
       </Link>
 
       <label for="drop" class="toggle-for-nav">
@@ -48,7 +48,7 @@ function Navbar() {
       >
         <img
         onClick={() =>setNavOpen(!navOpen)}
-          src="https://cdn.discordapp.com/attachments/336171716126572548/1184283431316750386/image-removebg-preview_11.png?ex=658b68e4&is=6578f3e4&hm=430d44f19c30d531f581a377a8e5a3750b50c8d7f205a45f228227229d8c901f&"
+          src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_11.png?raw=true"
           alt=""
         />
         <Link onClick={() =>setNavOpen(!navOpen)}  href="/">

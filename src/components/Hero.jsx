@@ -7,7 +7,7 @@ function Hero() {
 
    <div className="hero-wrapper">
     <div className="hero-container">
-    <img className="hero-bg-img" src="https://cdn.discordapp.com/attachments/336171716126572548/1185619321695776838/image-removebg-preview_18_1.png?ex=6590450a&is=657dd00a&hm=b5106e5ac4a376f0a8ab6716fa2639e29d537135d9acfabe5fea69c5666386ec&"></img>
+    <img className="hero-bg-img" src="https://github.com/eren5515/asd/blob/main/image-removebg-preview_18_1.png?raw=true"></img>
 
         <div className="hero-left">
             <h3>Rent a car now</h3>

@@ -19,7 +19,7 @@ export const CAR_DATA = [
       {
         name: "Volkswagen Golf",
         price: "50",
-        img: "https://cdn.discordapp.com/attachments/336171716126572548/1183877307736281098/pngwing.com_2.png?ex=6589eea9&is=657779a9&hm=e64b98751f788fd9d150a9a986bc05ba8982000766afa52760e67fbd519fdfda&",
+        img: "https://github.com/eren5515/asd/blob/main/pngwing.com_2.png?raw=true",
         model: "Golf",
         mark: "Volkswagen",
         year: "2019",
@@ -35,7 +35,7 @@ export const CAR_DATA = [
       {
         name: "Renault Symbol",
         price: "30",
-        img: "https://cdn.discordapp.com/attachments/336171716126572548/1183550595601281095/pngwing.com_1.png?ex=6588be63&is=65764963&hm=efd25b555c8748a9f82378ee067d2b2ddfdb4fc588ae21271ec5e469734d0671&",
+        img: "https://github.com/eren5515/asd/blob/main/pngwing.com_1.png?raw=true",
         model: "Symbol",
         mark: "Renault",
         year: "2016",
@@ -51,7 +51,7 @@ export const CAR_DATA = [
       {
         name: "Honda Civic",
         price: "40",
-        img: "https://cdn.discordapp.com/attachments/336171716126572548/1183880370597417070/image-removebg-preview_6.png?ex=6589f183&is=65777c83&hm=c4c81b68edd25f5870463019e0680c7761d29c8b33a3d6faeee68feadffdc03b&",
+        img: "https://github.com/eren5515/asd/blob/main/image-removebg-preview_6.png?raw=true",
         model: "Civic",
         mark: "Honda",
         year: "2018",
@@ -67,7 +67,7 @@ export const CAR_DATA = [
       {
         name: "Nissan Qashqai",
         price: "50",
-        img: "https://cdn.discordapp.com/attachments/336171716126572548/1183878030771363850/pngwing.com_4.png?ex=6589ef55&is=65777a55&hm=14d69ffc337a5fd4e1a1f093858a297b606d3f011c606f3dd15a84fb0669d145&",
+        img: "https://github.com/eren5515/asd/blob/main/pngwing.com_4.png?raw=true",
         model: "Qashqai",
         mark: "Nissan",
         year: "2016",
@@ -83,7 +83,7 @@ export const CAR_DATA = [
       {
         name: "Hyundai i20",
         price: "30",
-        img: "https://cdn.discordapp.com/attachments/336171716126572548/1183878227970760754/pngwing.com_5.png?ex=6589ef84&is=65777a84&hm=ce76b7535b635fd0fb23a38cd55ecee6fddfb96a6af557342afc93532f5ab383&",
+        img: "https://github.com/eren5515/asd/blob/main/pngwing.com_5.png?raw=true",
         model: "i20",
         mark: "Hyundai",
         year: "2015",
