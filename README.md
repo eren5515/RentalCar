@@ -14,8 +14,8 @@ Built with:
 
 ### Screenshots
 ------------
-![](https://cdn.discordapp.com/attachments/336171716126572548/1185693363316473918/image.png?ex=659089fe&is=657e14fe&hm=7e52f4fa67dab5e43a60d1428c5d1300dbf3afba524611b5d4faf031d9432763&)
-![](https://cdn.discordapp.com/attachments/336171716126572548/1185693558712316006/image.png?ex=65908a2d&is=657e152d&hm=a10b1c5af30713098d67f70cdd7266dc2e1227fd4d5412d77be8caf109dcc8bb&)
-![](https://cdn.discordapp.com/attachments/336171716126572548/1185693749964198011/image.png?ex=65908a5b&is=657e155b&hm=89861a01aec5f4708f90243489b385af26f27dc5f485125601dbd345ecb98b19&)
-![](https://cdn.discordapp.com/attachments/336171716126572548/1185693814174797824/image.png?ex=65908a6a&is=657e156a&hm=01dbbb25e91010082ba7c042cb37d892316a761df32d7ebaa94dd0dc7604cb83&)
+![](https://github.com/eren5515/asd/blob/main/resim_2024-03-09_225014792.png?raw=true)
+![](https://github.com/eren5515/asd/blob/main/resim_2024-03-09_225038224.png?raw=true)
+![](https://github.com/eren5515/asd/blob/main/resim_2024-03-09_225121010.png?raw=true)
+![](https://github.com/eren5515/asd/blob/main/resim_2024-03-09_225141014.png?raw=true)
 
